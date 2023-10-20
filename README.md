@@ -1,2 +1,1 @@
-# CycdmAnimePlugin
-次元城动漫
+## 次元城动漫
